@@ -14,7 +14,7 @@ body{
     font-family: 'lato', sans-serif;
     color: #454545;
     font-weight: 300;
-    background: #ffffff;
+    background: #00143d;
 }
 a{
     color: #333333;
@@ -42,7 +42,7 @@ h5,
 h6{
     padding: 0;
     margin: 0 0 15px 0;
-    color: #333333;
+    color: white;
     font-weight: 700;
 }
 img{
